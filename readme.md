@@ -7,7 +7,7 @@
 
 ### 文件目录结构如下
 ```
-MTEST
+PYTHON_MODULE_TEST
 ├─binary_op
 │  ├─__init__.py
 │  └─operators.py
