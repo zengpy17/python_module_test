@@ -1,4 +1,4 @@
-from mtest.unary_op.operators import minus as u_minus
+from python_module_test.unary_op.operators import minus as u_minus
 
 def plus(a,b):
     return a+b
